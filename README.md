@@ -21,7 +21,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://github.com/AVL1/AVL1/blob/main/jupyter.png" />
 
 
-<br><br>
+---
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AVL1&show_icons=true&hide_border=true" />
-<br><br>
+
+---
 <img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVL1&hide=javascript" />
