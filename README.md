@@ -34,6 +34,6 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVL1&hide=javascript" />
+<img align="center" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVL1&hide=javascript" />
 
 </details>
