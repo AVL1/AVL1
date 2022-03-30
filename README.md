@@ -6,10 +6,7 @@
 - 🔭 I’m currently a College student
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking for an internship
-- 🤔 I’m looking for help with OOP
 - 💬 Ask me about anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact...
 
 
 ### Languages and Tools
