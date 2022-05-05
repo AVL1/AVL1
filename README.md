@@ -24,13 +24,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AVL1&show_icons=true&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anhtran15&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="center" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVL1&hide=javascript" />
+<img align="center" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran15&hide=javascript" />
 
 </details>
