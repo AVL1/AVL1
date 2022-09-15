@@ -3,10 +3,8 @@
 <img align="right" alt="GIF" src="https://github.com/AVL1/AVL1/blob/main/coding.jpg" width="500" height="320" />
 
 ---
-- 🔭 I’m currently a College student
+- 🔭 I’m currently a fresh graduate
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking for an internship
-- 💬 Ask me about anything
 
 
 ### Languages and Tools
